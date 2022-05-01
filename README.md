@@ -1,6 +1,13 @@
 ### :tipping_hand_woman: [γεια σας](https://translate.google.com/?hl=en&sl=auto&tl=en&text=%CE%B3%CE%B5%CE%B9%CE%B1%20%CF%83%CE%B1%CF%82&op=translate) 👋 
 
-A Bangladeshi :bangladesh: girl named **Suvadra** :woman_facepalming: (Please, pronounce it Shuvodra :pray:) is not interested in Technology obviously but loves to adopt. 
+A Bangladeshi :bangladesh: girl named **Suvadra** :woman_facepalming: (Please, pronounce it Shuvodra :pray:) is not interested in Technology obviously but loves to adopt.  I'm apologizing for wasting your valuable few seconds.
+More specifically, Writing and testing smart contracts for the **celo** blockchain using Solidity is my main field in blockchain development.  
+I am exploring:
+ - Smart Contract Weakness 
+ - Blockchain Interoperability
+ - NFT, NFT Marketplace
+ - Decentralized Exchanges
+ - Decentralized Storage (IPFS, Ceramic)
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://linkedin.com/in/suvadra-barua-46974a19a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvadra-barua-46974a19a" height="30" width="40" /></a>  

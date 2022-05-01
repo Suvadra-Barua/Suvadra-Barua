@@ -5,7 +5,7 @@ A Bangladeshi :bangladesh: girl named **Suvadra** :woman_facepalming: (Please, p
 <p align="left">  
 <a href="https://linkedin.com/in/suvadra-barua-46974a19a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvadra-barua-46974a19a" height="30" width="40" /></a>  
 <a href="https://www.leetcode.com/user4818qc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user4818qc" height="30" width="40" /></a>  
-<a href="https://www.hackerearth.com/@1504025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@1504025" height="30" width="40" /></a>  
+<a href="https://www.hackerearth.com/@1504025_" target="blank"><img align="center" src="https://simpleicons.org/icons/hackerearth.svg" alt="@1504025_" height="30" width="40" /></a>  
 <a href="https://discord.gg/Suvadra Barua#2353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Suvadra Barua#2353" height="30" width="40" /></a>  
 </p>  
   

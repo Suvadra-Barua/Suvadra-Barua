@@ -2,9 +2,7 @@
 
 Welcome to my GitHub universe! 🌐 
 
-I'm Suvadra, a passionate blockchain engineer and a dedicated lead instructor with over 2 years of hands-on experience in the dynamic realm of decentralized applications (DApps). My journey has been fueled by the excitement of designing, developing, and deploying cutting-edge solutions on Ethereum and various other blockchain platforms.
-
-Armed with a proven track record, I thrive in the intricate dance of turning concepts into reality through the power of blockchain technology. Whether it's crafting smart contracts or architecting robust DApps, I revel in the art of bringing innovation to life on the blockchain canvas.
+I'm Suvadra, a passionate blockchain engineer and a dedicated lead instructor with over 2 years of hands-on experience in the dynamic realm of decentralized applications (DApps). My journey has been fueled by the excitement of designing, developing, and deploying cutting-edge solutions on Celo, Ethereum and various other blockchain platforms.
 
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 

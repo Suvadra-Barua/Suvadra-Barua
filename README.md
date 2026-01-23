@@ -1,8 +1,6 @@
 ### :tipping_hand_woman: [γεια σας](https://translate.google.com/?hl=en&sl=auto&tl=en&text=%CE%B3%CE%B5%CE%B9%CE%B1%20%CF%83%CE%B1%CF%82&op=translate) 👋 
 
-Welcome to my GitHub universe! 🌐 
-
-I'm Suvadra, a passionate blockchain engineer and a dedicated lead instructor with over 2 years of hands-on experience in the dynamic realm of decentralized applications (DApps). My journey has been fueled by the excitement of designing, developing, and deploying cutting-edge solutions on Celo, Ethereum and various other blockchain platforms.
+Welcome 🌐 
 
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
